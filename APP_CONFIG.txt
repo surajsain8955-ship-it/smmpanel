@@ -1,0 +1,4 @@
+IncreserMaster Android App
+Package: com.incresermaster.app
+Website: https://incresermaster.com/
+Version: 1.0.0
